@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="topTitle">Already Have an Account ?</string>
+    <string name="greeting">Welcome!</string>
+    <string name="nameApp">The Innermost App</string>
+    <string name="registerTitle">Create a New Account</string>
+    <string name="midTitle">Forgot password ?</string>
+    <string name="botTitle">REGISTER NOW</string>
+    <string name="copyRight">©2020 ChatApp. All rights reserved</string>
+</resources>
